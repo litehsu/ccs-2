@@ -7,6 +7,11 @@ Serif is a modern business theme for Hugo. It contains multiple content types an
 
 ![Hugo Serif Theme screenshot](https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png)
 
+## Workflow
+- make local diff
+- push to remote
+
+
 ## Features
 
 **Content Types**
