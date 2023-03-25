@@ -9,8 +9,12 @@ Serif is a modern business theme for Hugo. It contains multiple content types an
 
 ## Workflow
 - make local diff
-- push to remote
+- push to remote by git push origin master
+- goto github and verify diff is pushed
+- goto goto github reame and deploy to netlify
 
+
+https://www.charliescollectibleshow.com/
 
 ## Features
 
