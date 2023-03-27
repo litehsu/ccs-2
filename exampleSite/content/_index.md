@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Charlie's Collectible Show.
+# Charlie's Collectible Show
 
 Charlie's Collectible show is blah blah
