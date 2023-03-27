@@ -11,8 +11,8 @@ Opening Hours:
 | Day       | Opening Hours   |
 | --------- | --------------- |
 | Tuesday   | Closed |
-| Wednesday | 6:00pm - 9:00pm |
+| Wednesday | 3:00pm - 9:00pm |
 | Thursday  | Closed |
 | Friday    | Closed |
-| Saturday  | 10:am - 5:00pm  |
-| Sunday    | 10:am - 5:00pm  |
+| Saturday  | 9:00am - 5:00pm  |
+| Sunday    | 9:00am - 5:00pm  |
