@@ -1,7 +1,7 @@
 ---
 title: 'Homepage'
-meta_title: 'Charlie's Collectible show'
-description: "Best place for gaming in Georgia."
+meta_title: 'Hugo Serif Theme'
+description: "Best place for Gaming in Georgia."
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
