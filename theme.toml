@@ -10,5 +10,4 @@ tags = ['responsive','personal','company','multipage','light','bootstrap','zeros
 features = ['bootstrap','responsive','scss','google analytics','netlify']
 
 [author]
-  name = 'Robert Austin'
-  homepage = 'https://www.zerostatic.io'
+  name = 'Richard Hsu'
