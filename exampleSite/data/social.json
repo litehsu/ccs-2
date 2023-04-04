@@ -6,7 +6,17 @@
     },
     {
         "name": "Twitter",
-        "link": "https://twitter.com/zerostaticio",
+        "link": "https://twitter.com/CCS_Collectible",
+        "image": "images/social/twitter.svg"
+    },
+    {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/charliescollectibleshow/",
+        "image": "images/social/twitter.svg"
+    },
+    {
+        "name": "Tiktok",
+        "link": "https://www.tiktok.com/@charliescollectibleshow?lang=en",
         "image": "images/social/twitter.svg"
     }
 ]
