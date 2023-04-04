@@ -32,7 +32,7 @@ title = "Hugo Serif Theme"
     base = "Source Sans Pro"
 
   [params.colors]
-    primary = "#2a89e8"
+    primary = "#ff2600"
     black = "#2f2f41"
     white = "#ffffff"
     white_offset = "#f6f7ff"
@@ -50,7 +50,7 @@ title = "Hugo Serif Theme"
     summary_large_truncate = 120 # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = 'All Rights reserved CCS 2023'
+    copyright_text = 'All Rights reserved. @CCS 2023'
 
 [menu]
   # Main Menu
