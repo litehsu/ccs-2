@@ -32,7 +32,7 @@ title = "Hugo Serif Theme"
     base = "Source Sans Pro"
 
   [params.colors]
-    primary = "#ff2600"
+    primary = "#f20cad"
     black = "#2f2f41"
     white = "#ffffff"
     white_offset = "#f6f7ff"
