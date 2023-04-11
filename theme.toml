@@ -8,6 +8,3 @@ demosite = 'https://hugo-serif.netlify.app'
 
 tags = ['responsive','personal','company','multipage','light','bootstrap','zerostatic']
 features = ['bootstrap','responsive','scss','google analytics','netlify']
-
-[author]
-  name = 'Richard Hsu'
