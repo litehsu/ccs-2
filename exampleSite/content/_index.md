@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Charlie's Collectible Show
 
-Charlie's Collectible Show
+Charlie's Collectible Show index
