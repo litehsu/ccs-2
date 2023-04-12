@@ -1,6 +1,6 @@
 ---
 title: 'Homepage'
-meta_title: 'Hugo Serif Theme'
+meta_title: 'CCS'
 description: "Best place for Gaming in Georgia."
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
