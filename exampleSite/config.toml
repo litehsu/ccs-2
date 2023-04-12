@@ -55,29 +55,15 @@ title = "Hugo Serif Theme"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
-    url = "/services/"
+    name = "About"
+    url = "/about/"
     weight = 1
-
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
   
-  [[menu.main]]
-    name = "Vender"
-    url = "/vender/"
-    weight = 3
-
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 4
 
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 5
+    weight = 2
 
   # Footer Menu
   [[menu.footer]]

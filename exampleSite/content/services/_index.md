@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: false
 
 # Services that grow with your business
 
-Index
+Services Index
