@@ -2,7 +2,7 @@ baseURL = "/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "CCS"
 
 [module]
   [module.hugoVersion]
