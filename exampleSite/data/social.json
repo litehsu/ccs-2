@@ -1,10 +1,5 @@
 [
     {
-        "name": "Github",
-        "link": "https://github.com/zerostaticthemes/hugo-serif-theme",
-        "image": "images/social/github.svg"
-    },
-    {
         "name": "Twitter",
         "link": "https://twitter.com/CCS_Collectible",
         "image": "images/social/twitter.svg"
@@ -12,16 +7,16 @@
     {
         "name": "Instagram",
         "link": "https://www.instagram.com/charliescollectibleshow/",
-        "image": "images/social/twitter.svg"
+        "image": "images/social/instagram.svg"
     },
     {
         "name": "Tiktok",
         "link": "https://www.tiktok.com/@charliescollectibleshow?lang=en",
-        "image": "images/social/twitter.svg"
+        "image": "images/social/tiktok.svg"
     },
     {
         "name": "Facebook",
         "link": "https://www.facebook.com/CharliesCollectibleShow",
-        "image": "images/social/twitter.svg"
+        "image": "images/social/facebook.svg"
     }
 ]
