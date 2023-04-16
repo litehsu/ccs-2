@@ -6,6 +6,8 @@ featured: true
 weight: 2
 ---
 
+![FAQ](/images/show/show_4.JPG)
+
 Are you ready to showcase your products and services to a dedicated audience of hobbyists and collectors? Look no further than our upcoming hobby and collectibles trade show! Here are just a few of the benefits you can expect when you participate:
 
 Purchase collections from attendees who are looking to sell fast for cash: Our event attracts a diverse range of attendees, many of whom are looking to sell their collections quickly and efficiently. As a vendor, you'll have the opportunity to connect with these individuals and purchase collections that can help you grow your business.
