@@ -9,4 +9,5 @@ intro_image_hide_on_mobile: true
 
 # Charlie's Collectible Show
 
-Best Collectible Show in Georgia
+Best Collectible Show in Georgia!
+Monthly tournament for all TCG and more!
