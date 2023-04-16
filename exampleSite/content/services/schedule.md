@@ -7,6 +7,8 @@ weight: 2
 ---
 
 
+Find more up to date event information on [Google calendar](https://calendar.google.com/calendar/u/1?cid=Y2lkNmdxM3FhZzhzdXR0djR2N25wYWw3MDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)!
+
 
 #Event Schedule:
 

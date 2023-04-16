@@ -8,6 +8,6 @@ weight: 3
 
 Frequest ask questions:
 
-![Accounting Services](/images/show/show_4.JPG)
+![FAQ](/images/show/show_4.JPG)
 
 
