@@ -6,8 +6,6 @@ featured: true
 weight: 3
 ---
 
-Frequest ask questions:
-
 ![FAQ](/images/show/show_4.JPG)
 
-
+Frequest ask questions:
