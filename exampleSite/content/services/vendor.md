@@ -8,6 +8,8 @@ weight: 2
 
 ![FAQ](/images/show/show_4.JPG)
 
+# Join us!
+
 Are you ready to showcase your products and services to a dedicated audience of hobbyists and collectors? Look no further than our upcoming hobby and collectibles trade show! Here are just a few of the benefits you can expect when you participate:
 
 # Opportunity
